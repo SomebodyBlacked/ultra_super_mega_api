@@ -2,5 +2,8 @@
   "workbench.iconTheme": "symbols",
   "workbench.colorTheme": "Atomize",
   "window.autoDetectColorScheme": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[nix]": {
+    "editor.defaultFormatter": "google.nix-language"
+  }
 }
