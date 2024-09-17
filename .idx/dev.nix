@@ -5,6 +5,10 @@
   ];
   idx = {
     extensions = [
+      "castrogusttavo.symbols"
+      "emroussel.atomize-atom-one-dark-theme"
+      "esbenp.prettier-vscode"
+      "oven.bun-vscode"
     ];
     workspace = {
       onCreate = {

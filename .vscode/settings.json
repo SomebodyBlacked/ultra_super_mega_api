@@ -1,4 +1,5 @@
 {
-    "workbench.iconTheme": "symbols",
-    "workbench.colorTheme": "Atomize"
+  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Atomize",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
